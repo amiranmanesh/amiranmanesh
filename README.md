@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| [![Amir's Github stats](https://github-readme-stats.vercel.app/api?username=amiranmanesh&show_icons=true)](https://github.com/amiranmanesh/amiranmanesh) | [![Telegram Chat](https://img.shields.io/badge/Chat-Telegram-blue.svg)](https://t.me/iranmanesh_ah)  ![Twitter Follow](https://img.shields.io/twitter/follow/amiranmanesh?style=social)  ![GitHub followers](https://img.shields.io/github/followers/amiranmanesh?label=amiranmanesh&style=social) |
+|:---------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
