@@ -28,7 +28,7 @@ Sep 2021 - Present
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) MongoDB
 - ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis) Redis
 - ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq) RabbitMQ
-- ![Android](https://img.shields.io/badge/-Android Development-3DDC84?style=flat-square&logo=android) Android Development
+- ![Android](https://img.shields.io/badge/-Android-000000?style=flat-square&logo=android) Android Development
 
 ## 📫 How to Reach Me
 - Email: [Your Email](iranmanesh.ah@gmail.com)
