@@ -8,14 +8,10 @@ Hello! I'm a Backend Software Engineer with over 5 years of experience in the IT
 - Bachelor in Computer Engineering, Semnan University, Semnan, Iran (2016-2020)
 
 ## 💼 Professional Experience
-### Tech Lead at Kuknos
-May 2023 - Present
+### Team Lead at Kuknos
+Sep 2021 - Present
 - Managed high-impact blockchain projects
 - Developed and maintained applications using Distributed Ledger Technology
-
-### Backend Developer at [Previous Companies]
-[Dates]
-- [Brief description of roles and achievements]
 
 ## 🛠️ Skills
 - ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go) Go
@@ -36,9 +32,6 @@ May 2023 - Present
 
 ## 📈 GitHub Stats
 ![Amir's github stats](https://github-readme-stats.vercel.app/api?username=amiranmanesh&show_icons=true&theme=highcontrast)
-
-## 👀 Visitor Count
-![visitors](https://visitor-badge.glitch.me/badge?page_id=amiranmanesh/amiranmanesh)
 
 ## 📫 How to Reach Me
 - Email: [Your Email](iranmanesh.ah@gmail.com)
