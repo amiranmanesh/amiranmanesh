@@ -31,8 +31,8 @@ Sep 2021 - Present
 - ![Android](https://img.shields.io/badge/-Android-000000?style=flat-square&logo=android) Android Development
 
 ## 📫 How to Reach Me
-- Email: [Your Email](iranmanesh.ah@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/amiranmanesh/)
+- Email: [iranmanesh.ah@gmail.com](iranmanesh.ah@gmail.com)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/amiranmanesh/)
 - Personal Website: [Amir Iranmanesh](https://amiranmanesh.ir)
 
 ## 🌐 Links
