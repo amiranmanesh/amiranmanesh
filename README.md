@@ -30,9 +30,6 @@ Sep 2021 - Present
 - ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq) RabbitMQ
 - ![Android](https://img.shields.io/badge/-Android Development-3DDC84?style=flat-square&logo=android) Android Development
 
-## 📈 GitHub Stats
-![Amir's github stats](https://github-readme-stats.vercel.app/api?username=amiranmanesh&show_icons=true&theme=highcontrast)
-
 ## 📫 How to Reach Me
 - Email: [Your Email](iranmanesh.ah@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://linkedin.com/in/amiranmanesh/)
