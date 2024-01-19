@@ -34,9 +34,4 @@ Sep 2021 - Present
 - Email: [iranmanesh.ah@gmail.com](iranmanesh.ah@gmail.com)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/amiranmanesh/)
 - Personal Website: [Amir Iranmanesh](https://amiranmanesh.ir)
-
-## 🌐 Links
-- [GitHub](https://github.com/amiranmanesh)
-- [LinkedIn](https://linkedin.com/in/amiranmanesh/)
-- [Personal Website](https://amiranmanesh.ir)
 <!-- Optional: You can also add a section for hobbies, interests, or any other personal tidbits you'd like to share -->
